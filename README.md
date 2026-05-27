@@ -1,9 +1,9 @@
 # 👋 Hey, I'm Taha!
 
-🚀 Exploring JavaScript, Java & SaaS dev  
+🚀 Exploring JavaScript & SaaS dev  
 🧠 Learning problem-solving & first-principles thinking  
 🎵 Enjoying Music, spice & everything nice 🌶️🎧    
 🌶️ Cooking experiments 
-🖥️ Tech stack: JavaScript, Java ☕ | APIs | OOP  
+🖥️ Tech stack: JavaScript | APIs | OOP  
 
 🚀 Always exploring & learning! Feel free to connect!  
