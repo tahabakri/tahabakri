@@ -12,18 +12,18 @@
     <rect x="0" y="0" width="1200" height="420" fill="#fcfbf8"/>
     <rect x="0" y="0" width="1200" height="420" fill="url(#grid)"/>
 
-    <g fill="none" stroke="#141414" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
-      <path d="M252 116 C 300 110, 330 132, 350 168" stroke-dasharray="160" stroke-dashoffset="160">
-        <animate attributeName="stroke-dashoffset" values="160;0;0;160" keyTimes="0;0.3;0.9;1" dur="7s" repeatCount="indefinite"/>
+    <g fill="none" stroke="#141414" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M250 108 C 322 110, 372 122, 408 150" stroke-dasharray="190" stroke-dashoffset="190">
+        <animate attributeName="stroke-dashoffset" values="190;0;0;190" keyTimes="0;0.3;0.9;1" dur="7s" repeatCount="indefinite"/>
       </path>
-      <path d="M340 150 L 350 168 L 332 163" stroke-dasharray="70" stroke-dashoffset="70">
-        <animate attributeName="stroke-dashoffset" values="70;0;0;70" keyTimes="0;0.34;0.9;1" dur="7s" repeatCount="indefinite"/>
+      <path d="M396 134 L 408 150 L 388 148" stroke-dasharray="60" stroke-dashoffset="60">
+        <animate attributeName="stroke-dashoffset" values="60;0;0;60" keyTimes="0;0.36;0.9;1" dur="7s" repeatCount="indefinite"/>
       </path>
-      <path d="M910 122 C 878 116, 866 138, 852 168" stroke-dasharray="160" stroke-dashoffset="160">
-        <animate attributeName="stroke-dashoffset" values="160;0;0;160" keyTimes="0;0.3;0.9;1" dur="8s" repeatCount="indefinite" begin="0.8s"/>
+      <path d="M912 108 C 840 114, 812 130, 792 150" stroke-dasharray="190" stroke-dashoffset="190">
+        <animate attributeName="stroke-dashoffset" values="190;0;0;190" keyTimes="0;0.3;0.9;1" dur="8s" repeatCount="indefinite" begin="0.8s"/>
       </path>
-      <path d="M862 150 L 852 168 L 870 163" stroke-dasharray="70" stroke-dashoffset="70">
-        <animate attributeName="stroke-dashoffset" values="70;0;0;70" keyTimes="0;0.34;0.9;1" dur="8s" repeatCount="indefinite" begin="0.8s"/>
+      <path d="M804 134 L 792 150 L 812 148" stroke-dasharray="60" stroke-dashoffset="60">
+        <animate attributeName="stroke-dashoffset" values="60;0;0;60" keyTimes="0;0.36;0.9;1" dur="8s" repeatCount="indefinite" begin="0.8s"/>
       </path>
     </g>
 
