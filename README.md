@@ -1,19 +1,23 @@
 ![taha bakri — builder, tbilisi](https://raw.githubusercontent.com/tahabakri/tahabakri/main/assets/header.svg)
 
-i build things on the web from **tbilisi** — mostly Notion data-safety tooling, plus the occasional thing that just moves nicely.
+i build modern **platforms, apps & marketplaces** — mostly for **events** — plus Notion data-safety tooling. based in **tbilisi**, shipping fast.
 
 ```sh
 taha@tbilisi:~$ whoami
 > builder · ships fast · first-principles
 
 taha@tbilisi:~$ ls ~/building
-restora.cc/      notion-bases/
+staffloop.live/   restora.cc/   notion-bases/   ...more (private)
 
 taha@tbilisi:~$ cat stack.txt
-typescript · react · node — SaaS, APIs, and the occasional WebGL toy
+typescript · react · react native · node — SaaS, APIs, marketplaces,
+and the occasional WebGL toy
 ```
 
 ### building
+
+🎟️ &nbsp; **event platforms, apps & marketplaces** — modern products for the events space (mostly private repos).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; flagship: **[StaffLoop](https://staffloop.live)** — an event-staffing marketplace for the UAE.
 
 🟢 &nbsp; **[Restora](https://restora.cc)** — backup & restore for Notion that actually puts it back.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; relations, rollups, views, page hierarchy — kept intact.
@@ -34,4 +38,4 @@ things that move — mostly vanilla js:
 
 —
 
-<sub>[restora.cc](https://restora.cc) &nbsp;·&nbsp; [npm](https://www.npmjs.com/~taha2k) &nbsp;·&nbsp; tbilisi 🇬🇪</sub>
+<sub>[staffloop.live](https://staffloop.live) &nbsp;·&nbsp; [restora.cc](https://restora.cc) &nbsp;·&nbsp; [npm](https://www.npmjs.com/~taha2k) &nbsp;·&nbsp; tbilisi 🇬🇪</sub>
