@@ -2,16 +2,18 @@
 
 i build modern **platforms, apps & marketplaces** — mostly for **events** — plus Notion data-safety tooling. based in **tbilisi**, shipping fast.
 
-```sh
-taha@tbilisi:~$ whoami
-> builder · ships fast · first-principles
+```bat
+C:\taha> whoami
+builder · ships-fast · first-principles
 
-taha@tbilisi:~$ ls ~/building
-staffloop.live/   restora.cc/   notion-bases/   ...more (private)
+C:\taha> dir building
+<DIR>  staffloop.live    <DIR>  restora.cc    <DIR>  notion-bases    ...more (private)
 
-taha@tbilisi:~$ cat stack.txt
-typescript · react · react native · node — SaaS, APIs, marketplaces,
-and the occasional WebGL toy
+C:\taha> type stack.txt
+typescript · react · react-native · node — saas · apis · marketplaces
+and the occasional webgl toy
+
+C:\taha> _
 ```
 
 ### building
