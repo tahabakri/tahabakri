@@ -1,7 +1,7 @@
-<svg width="100%" viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="taha bakri — builder, tbilisi. A brainstorm board of projects: Restora, notion-bases, StaffLoop, event marketplaces.">
+<svg width="100%" viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="taha bakri — builder, tbilisi. A brainstorm board with sticky notes: Restora, notion-bases, StaffLoop, event marketplaces.">
   <defs>
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0H0V40" fill="none" stroke="#ececec" stroke-width="1"/>
+      <path d="M40 0H0V40" fill="none" stroke="#ededea" stroke-width="1"/>
     </pattern>
     <clipPath id="round"><rect x="0" y="0" width="1200" height="420" rx="20"/></clipPath>
   </defs>
@@ -10,83 +10,84 @@
     <rect x="0" y="0" width="1200" height="420" fill="#fcfbf8"/>
     <rect x="0" y="0" width="1200" height="420" fill="url(#grid)"/>
 
-    <g fill="none" stroke="#0a0a0a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
-      <path d="M300 120 C 360 70 430 80 470 140" stroke-dasharray="170" stroke-dashoffset="170">
-        <animate attributeName="stroke-dashoffset" values="170;0;0;170" keyTimes="0;0.35;0.85;1" dur="7s" repeatCount="indefinite"/>
+    <g fill="none" stroke="#111111" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M250 120 C 300 92, 332 116, 346 158" stroke-dasharray="150" stroke-dashoffset="150">
+        <animate attributeName="stroke-dashoffset" values="150;0;0;150" keyTimes="0;0.3;0.9;1" dur="7s" repeatCount="indefinite"/>
       </path>
-      <path d="M455 120 L 472 142 L 446 150" stroke-dasharray="70" stroke-dashoffset="70">
-        <animate attributeName="stroke-dashoffset" values="70;0;0;70" keyTimes="0;0.4;0.85;1" dur="7s" repeatCount="indefinite"/>
+      <path d="M334 146 L 348 160 L 332 166" stroke-dasharray="60" stroke-dashoffset="60">
+        <animate attributeName="stroke-dashoffset" values="60;0;0;60" keyTimes="0;0.34;0.9;1" dur="7s" repeatCount="indefinite"/>
       </path>
-      <path d="M905 150 C 840 110 800 150 760 200" stroke-dasharray="180" stroke-dashoffset="180">
-        <animate attributeName="stroke-dashoffset" values="180;0;0;180" keyTimes="0;0.4;0.85;1" dur="8s" repeatCount="indefinite" begin="1s"/>
+      <path d="M912 124 C 882 96, 866 122, 858 162" stroke-dasharray="155" stroke-dashoffset="155">
+        <animate attributeName="stroke-dashoffset" values="155;0;0;155" keyTimes="0;0.3;0.9;1" dur="8s" repeatCount="indefinite" begin="0.8s"/>
       </path>
-      <path d="M775 180 L 757 203 L 785 208" stroke-dasharray="70" stroke-dashoffset="70">
-        <animate attributeName="stroke-dashoffset" values="70;0;0;70" keyTimes="0;0.45;0.85;1" dur="8s" repeatCount="indefinite" begin="1s"/>
+      <path d="M870 150 L 856 164 L 872 170" stroke-dasharray="60" stroke-dashoffset="60">
+        <animate attributeName="stroke-dashoffset" values="60;0;0;60" keyTimes="0;0.34;0.9;1" dur="8s" repeatCount="indefinite" begin="0.8s"/>
       </path>
     </g>
 
     <g fill="#13a8ff">
-      <circle cx="250" cy="210" r="4"><animate attributeName="opacity" values="1;0.2;1" dur="3s" repeatCount="indefinite"/></circle>
-      <circle cx="950" cy="225" r="4"><animate attributeName="opacity" values="0.3;1;0.3" dur="4s" repeatCount="indefinite"/></circle>
-      <circle cx="600" cy="62" r="3.5"><animate attributeName="opacity" values="1;0.3;1" dur="3.5s" repeatCount="indefinite"/></circle>
+      <circle cx="245" cy="232" r="4"><animate attributeName="opacity" values="1;0.25;1" dur="3s" repeatCount="indefinite"/></circle>
+      <circle cx="958" cy="238" r="4"><animate attributeName="opacity" values="0.3;1;0.3" dur="4s" repeatCount="indefinite"/></circle>
     </g>
-    <g fill="none" stroke="#13a8ff" stroke-width="2.4" stroke-linecap="round">
-      <path d="M580 372 l0 -14 M573 365 l14 0"><animate attributeName="opacity" values="0.4;1;0.4" dur="4s" repeatCount="indefinite"/></path>
-      <path d="M1010 110 l0 -12 M1004 104 l12 0"><animate attributeName="opacity" values="1;0.4;1" dur="3.5s" repeatCount="indefinite"/></path>
+    <g fill="none" stroke="#13a8ff" stroke-width="2.6" stroke-linecap="round">
+      <path d="M600 348 l0 -15 M592 340.5 l15 0"><animate attributeName="opacity" values="0.4;1;0.4" dur="4s" repeatCount="indefinite"/></path>
+      <path d="M286 150 l0 -13 M279.5 143.5 l13 0"><animate attributeName="opacity" values="1;0.4;1" dur="3.5s" repeatCount="indefinite"/></path>
     </g>
 
-    <rect x="340" y="152" width="520" height="128" fill="rgba(19,168,255,0.05)" stroke="#13a8ff" stroke-width="3" stroke-dasharray="11 8">
-      <animate attributeName="stroke-dashoffset" values="0;-76" dur="3.2s" repeatCount="indefinite"/>
+    <rect x="340" y="156" width="520" height="120" rx="2" fill="rgba(19,168,255,0.05)" stroke="#13a8ff" stroke-width="3" stroke-dasharray="11 8">
+      <animate attributeName="stroke-dashoffset" values="0;-76" dur="3.4s" repeatCount="indefinite"/>
     </rect>
-    <g fill="#13a8ff" stroke="#050505" stroke-width="2.5">
-      <rect x="333" y="145" width="14" height="14"/>
-      <rect x="593" y="145" width="14" height="14"/>
-      <rect x="853" y="145" width="14" height="14"/>
-      <rect x="333" y="209" width="14" height="14"/>
-      <rect x="853" y="209" width="14" height="14"/>
-      <rect x="333" y="273" width="14" height="14"/>
-      <rect x="593" y="273" width="14" height="14"/>
-      <rect x="853" y="273" width="14" height="14"/>
+    <g fill="#13a8ff" stroke="#050505" stroke-width="2.4">
+      <rect x="333" y="149" width="13" height="13"/>
+      <rect x="593.5" y="149" width="13" height="13"/>
+      <rect x="854" y="149" width="13" height="13"/>
+      <rect x="333" y="209.5" width="13" height="13"/>
+      <rect x="854" y="209.5" width="13" height="13"/>
+      <rect x="333" y="270" width="13" height="13"/>
+      <rect x="593.5" y="270" width="13" height="13"/>
+      <rect x="854" y="270" width="13" height="13"/>
     </g>
-    <text x="600" y="244" text-anchor="middle" font-family="'Comic Sans MS','Comic Neue','Chalkboard SE',cursive" font-size="80" font-weight="700" fill="#0a0a0a">taha bakri</text>
-    <text x="600" y="312" text-anchor="middle" font-family="'Comic Sans MS','Comic Neue',cursive" font-size="22" font-weight="700" fill="#5a6577">builder · tbilisi · ships fast</text>
+    <text x="600" y="234" text-anchor="middle" font-family="'Comic Sans MS','Comic Neue','Chalkboard SE',cursive" font-size="58" font-weight="700" fill="#111111">taha bakri</text>
+    <text x="600" y="304" text-anchor="middle" font-family="'Comic Sans MS','Comic Neue',cursive" font-size="20" font-weight="700" fill="#5a6577">builder · tbilisi · ships fast</text>
 
-    <g transform="translate(70,54) rotate(-8)">
-      <animateTransform attributeName="transform" type="translate" additive="sum" values="0 0;0 -5;0 0" dur="4s" repeatCount="indefinite"/>
-      <rect width="172" height="96" fill="#a8efcf"/>
-      <rect x="60" y="-9" width="48" height="16" fill="rgba(90,95,105,0.25)" transform="rotate(5 84 -1)"/>
-      <text x="86" y="42" text-anchor="middle" font-family="'Comic Sans MS','Comic Neue',cursive" font-size="22" font-weight="700" fill="#0a3d2a">Restora</text>
-      <text x="86" y="68" text-anchor="middle" font-family="'Comic Sans MS','Comic Neue',cursive" font-size="14" font-weight="700" fill="#1d5c44">Notion backup</text>
-    </g>
-
-    <g transform="translate(906,46) rotate(7)">
-      <animateTransform attributeName="transform" type="translate" additive="sum" values="0 0;0 6;0 0" dur="5s" repeatCount="indefinite"/>
-      <rect width="186" height="96" fill="#bcecff"/>
-      <rect x="68" y="-9" width="48" height="16" fill="rgba(90,95,105,0.25)" transform="rotate(-4 92 -1)"/>
-      <text x="93" y="42" text-anchor="middle" font-family="'Comic Sans MS','Comic Neue',cursive" font-size="19" font-weight="700" fill="#08384f">notion-bases</text>
-      <text x="93" y="68" text-anchor="middle" font-family="'Comic Sans MS','Comic Neue',cursive" font-size="14" font-weight="700" fill="#0f5573">npx → Obsidian</text>
+    <g transform="translate(74,52) rotate(-7)">
+      <animateTransform attributeName="transform" type="translate" additive="sum" values="0 0;0 -5;0 0" dur="4.2s" repeatCount="indefinite"/>
+      <rect x="4" y="6" width="168" height="92" fill="rgba(0,0,0,0.06)"/>
+      <rect width="168" height="92" fill="#a8efcf"/>
+      <rect x="58" y="-9" width="46" height="15" fill="rgba(90,95,105,0.22)" transform="rotate(5 81 -1.5)"/>
+      <text x="84" y="40" text-anchor="middle" font-family="'Comic Sans MS','Comic Neue',cursive" font-size="20" font-weight="700" fill="#0a3d2a">Restora</text>
+      <text x="84" y="65" text-anchor="middle" font-family="'Comic Sans MS','Comic Neue',cursive" font-size="13" font-weight="700" fill="#256b50">Notion backup</text>
     </g>
 
-    <g transform="translate(96,286) rotate(6)">
-      <animateTransform attributeName="transform" type="translate" additive="sum" values="0 0;0 -6;0 0" dur="4.6s" repeatCount="indefinite"/>
-      <rect width="178" height="96" fill="#ffef9d"/>
-      <rect x="64" y="-9" width="48" height="16" fill="rgba(90,95,105,0.25)" transform="rotate(6 88 -1)"/>
-      <text x="89" y="42" text-anchor="middle" font-family="'Comic Sans MS','Comic Neue',cursive" font-size="21" font-weight="700" fill="#5a4500">StaffLoop</text>
-      <text x="89" y="68" text-anchor="middle" font-family="'Comic Sans MS','Comic Neue',cursive" font-size="14" font-weight="700" fill="#7a5e00">event staffing · UAE</text>
+    <g transform="translate(914,46) rotate(6)">
+      <animateTransform attributeName="transform" type="translate" additive="sum" values="0 0;0 6;0 0" dur="5.2s" repeatCount="indefinite"/>
+      <rect x="4" y="6" width="182" height="92" fill="rgba(0,0,0,0.06)"/>
+      <rect width="182" height="92" fill="#bcecff"/>
+      <rect x="66" y="-9" width="46" height="15" fill="rgba(90,95,105,0.22)" transform="rotate(-4 89 -1.5)"/>
+      <text x="91" y="40" text-anchor="middle" font-family="'Comic Sans MS','Comic Neue',cursive" font-size="18" font-weight="700" fill="#08384f">notion-bases</text>
+      <text x="91" y="65" text-anchor="middle" font-family="'Comic Sans MS','Comic Neue',cursive" font-size="13" font-weight="700" fill="#136080">npx → Obsidian</text>
     </g>
 
-    <g transform="translate(912,284) rotate(-7)">
-      <animateTransform attributeName="transform" type="translate" additive="sum" values="0 0;0 6;0 0" dur="5.4s" repeatCount="indefinite"/>
-      <rect width="186" height="96" fill="#ffc4a6"/>
-      <rect x="68" y="-9" width="48" height="16" fill="rgba(90,95,105,0.25)" transform="rotate(-6 92 -1)"/>
-      <text x="93" y="42" text-anchor="middle" font-family="'Comic Sans MS','Comic Neue',cursive" font-size="19" font-weight="700" fill="#7a2e0c">event apps</text>
-      <text x="93" y="68" text-anchor="middle" font-family="'Comic Sans MS','Comic Neue',cursive" font-size="14" font-weight="700" fill="#92421b">&amp; marketplaces</text>
+    <g transform="translate(96,288) rotate(5)">
+      <animateTransform attributeName="transform" type="translate" additive="sum" values="0 0;0 -6;0 0" dur="4.8s" repeatCount="indefinite"/>
+      <rect x="4" y="6" width="176" height="92" fill="rgba(0,0,0,0.06)"/>
+      <rect width="176" height="92" fill="#ffef9d"/>
+      <rect x="62" y="-9" width="46" height="15" fill="rgba(90,95,105,0.22)" transform="rotate(6 85 -1.5)"/>
+      <text x="88" y="40" text-anchor="middle" font-family="'Comic Sans MS','Comic Neue',cursive" font-size="19" font-weight="700" fill="#5a4500">StaffLoop</text>
+      <text x="88" y="65" text-anchor="middle" font-family="'Comic Sans MS','Comic Neue',cursive" font-size="13" font-weight="700" fill="#856600">event staffing · UAE</text>
     </g>
 
-    <g>
-      <path d="M4.037 4.688a.495.495 0 0 1 .651-.651l16 6.5a.5.5 0 0 1-.063.947l-6.124 1.58a2 2 0 0 0-1.438 1.435l-1.579 6.126a.5.5 0 0 1-.947.063z" fill="#13a8ff" stroke="#050505" stroke-width="1.4" transform="scale(1.25)">
-        <animateMotion dur="11s" repeatCount="indefinite" rotate="0" path="M280 330 C 360 130 520 120 620 170 S 940 150 980 250 S 760 380 540 360 S 320 380 280 330 Z"/>
-      </path>
+    <g transform="translate(916,286) rotate(-6)">
+      <animateTransform attributeName="transform" type="translate" additive="sum" values="0 0;0 6;0 0" dur="5.6s" repeatCount="indefinite"/>
+      <rect x="4" y="6" width="182" height="92" fill="rgba(0,0,0,0.06)"/>
+      <rect width="182" height="92" fill="#ffc4a6"/>
+      <rect x="66" y="-9" width="46" height="15" fill="rgba(90,95,105,0.22)" transform="rotate(-6 89 -1.5)"/>
+      <text x="91" y="40" text-anchor="middle" font-family="'Comic Sans MS','Comic Neue',cursive" font-size="18" font-weight="700" fill="#7a2e0c">event apps</text>
+      <text x="91" y="65" text-anchor="middle" font-family="'Comic Sans MS','Comic Neue',cursive" font-size="13" font-weight="700" fill="#9a4a22">&amp; marketplaces</text>
     </g>
+
+    <path d="M4.037 4.688a.495.495 0 0 1 .651-.651l16 6.5a.5.5 0 0 1-.063.947l-6.124 1.58a2 2 0 0 0-1.438 1.435l-1.579 6.126a.5.5 0 0 1-.947.063z" fill="#13a8ff" stroke="#050505" stroke-width="1.4" transform="scale(1.15)">
+      <animateMotion dur="12s" repeatCount="indefinite" rotate="0" path="M300 332 C 380 150 520 140 615 178 S 920 168 968 252 S 760 372 545 356 S 330 374 300 332 Z"/>
+    </path>
   </g>
 </svg>
