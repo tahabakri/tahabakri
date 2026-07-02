@@ -1,6 +1,6 @@
 ![taha bakri — builder, tbilisi](https://raw.githubusercontent.com/tahabakri/tahabakri/main/assets/header.svg)
 
-i build modern **platforms, apps & marketplaces** — mostly for **events** — plus Notion data-safety tooling. based in **tbilisi**, shipping fast.
+turning repetitive work into software that people actually enjoy using.
 
 ```bat
 C:\taha> whoami
