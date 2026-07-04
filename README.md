@@ -23,6 +23,7 @@ C:\taha> _
 
 🟢 &nbsp; **[Restora](https://restora.cc)** — backup & restore for Notion that actually puts it back.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; relations, rollups, views, page hierarchy — kept intact.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![npm](https://img.shields.io/npm/v/@restora/cli?color=0f8ff5&labelColor=0d1117&label=npm)](https://www.npmjs.com/package/@restora/cli) [![installs](https://img.shields.io/npm/dw/@restora/cli?color=0f8ff5&labelColor=0d1117&label=installs%2Fwk)](https://www.npmjs.com/package/@restora/cli)
 
 📦 &nbsp; **[notion-bases](https://www.npmjs.com/package/notion-bases)** — `npx notion-bases export.zip` → a real Obsidian vault with typed `.base` databases. no API token. MIT.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![npm](https://img.shields.io/npm/v/notion-bases?color=0f8ff5&labelColor=0d1117&label=npm)](https://www.npmjs.com/package/notion-bases)
