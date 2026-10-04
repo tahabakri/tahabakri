@@ -7,7 +7,8 @@ C:\taha> whoami
 builder · ships-fast · first-principles
 
 C:\taha> dir building
-<DIR>  staffloop.live    <DIR>  restora.cc    <DIR>  notion-bases    ...more (private)
+<DIR>  northcraftlabs.com    <DIR>  staffloop.live    <DIR>  restora.cc
+<DIR>  notion-bases    ...more (private)
 
 C:\taha> type stack.txt
 typescript · react · react-native · node — saas · apis · marketplaces
@@ -17,6 +18,9 @@ C:\taha> _
 ```
 
 ### building
+
+🏢 &nbsp; **[NorthCraft Labs](https://northcraftlabs.com)** — a product house building and operating software at startup speed with enterprise discipline.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; behind StaffLoop, Restora and Homebite.
 
 🎟️ &nbsp; **event platforms, apps & marketplaces** — modern products for the events space (mostly private repos).
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; flagship: **[StaffLoop](https://staffloop.live)** — an event-staffing marketplace for the UAE.
@@ -42,4 +46,4 @@ a telegram tool + things that move:
 
 —
 
-<sub>[staffloop.live](https://staffloop.live) &nbsp;·&nbsp; [restora.cc](https://restora.cc) &nbsp;·&nbsp; [npm](https://www.npmjs.com/~taha2k) &nbsp;·&nbsp; tbilisi 🇬🇪</sub>
+<sub>[northcraftlabs.com](https://northcraftlabs.com) &nbsp;·&nbsp; [staffloop.live](https://staffloop.live) &nbsp;·&nbsp; [restora.cc](https://restora.cc) &nbsp;·&nbsp; [npm](https://www.npmjs.com/~taha2k) &nbsp;·&nbsp; tbilisi 🇬🇪</sub>
